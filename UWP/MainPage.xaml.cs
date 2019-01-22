@@ -89,7 +89,7 @@ namespace UWP
                 ProgressBar.IsIndeterminate = false;
                 if (result== true)
                 {
-                    Me
+                    
 
                 }
             }
